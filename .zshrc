@@ -9,7 +9,7 @@ plugins=(git
 	       wd
 	       docker
 	       history-substring-search
-	       1Password
+	       1password
 	       alias-finder
 	       direnv
 	       timer)
