@@ -1,8 +1,7 @@
 export ZSH="${HOME}/.oh-my-zsh"
 
 # Theme.
-ZSH_THEME="powerlevel10k/powerlevel10k"
-export SPACESHIP_DIR_TRUNC=0
+ZSH_THEME="gnzh"
 
 # Plugins.
 plugins=(git
