@@ -1,0 +1,17 @@
+
+alias gd='git diff'
+alias gc='git commit'
+alias gst='git status'
+alias gsw='git switch'
+alias gswc='git switch -c'
+alias gbd='git branch --delete'
+alias gb='git branch'
+alias glog='git log --oneline --decorate --graph'
+alias gp='git push'
+alias l='exa'
+alias la='exa -a'
+alias ll='exa -lah'
+alias ls='exa --color=auto'
+alias gitlogonelinepretty='git log --pretty=format:"%C(yellow)%h %Cred%ad %Cblue%an %Cgreen%s" --date=short'
+alias glop=gitlogonelinepretty
+alias gprom='git pull --rebase origin master'
