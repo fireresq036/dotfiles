@@ -125,7 +125,7 @@ alias ls='ls --color=auto'
 
 # remove username@hostname in prompt as advised at
 # https://github.com/ohmyzsh/ohmyzsh/issues/5581#issuecomment-256825141
-prompt_context() {}export
+prompt_context() {}
 
 # Set colors for LS_COLORS.
 eval `dircolors ~/.dircolors`
