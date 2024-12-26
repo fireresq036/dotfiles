@@ -75,9 +75,7 @@ plugins=(git
 	       1password
 	       alias-finder
 	       direnv
-	       timer
-		   zsh-syntax-highlighting
-		   zsh-autosuggestions)
+	       timer)
 
 source $ZSH/oh-my-zsh.sh
 
